@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dasun Shyaminda</h1>
-<p align="center">A passionate full stack developer from Sri Lanka</p>
+<p align="center">A passionate full stack developer from Sri Lanka</p> 
 
 ---
 
