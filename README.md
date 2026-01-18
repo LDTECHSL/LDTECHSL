@@ -8,10 +8,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LDTECHSL&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="LDTECHSL streak"/>
-  <br></br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=LDTECHSL&limit=5&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&combine_all_yearly_contributions=true" alt="LDTECHSL"/>
 </td>
 <td width="50%" align="center">
 
